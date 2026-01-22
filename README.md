@@ -1,27 +1,3 @@
 # Survey Form Web Application
----
-A simple and responsive survey form built using HTML5 and CSS3.  
-This project focuses on clean UI, proper form structure, and responsive behavior without using media queries.
----
-## Features
-- Text inputs, radio buttons, checkboxes, and textarea  
-- Clean and minimal design  
-- Responsive layout using flexible widths  
-- Beginner-friendly and easy to understand  
----
-## Tech Stack
-- HTML5  
-- CSS3  
----
-## Project Structure
-survey-form/
-├── index.html  
-├── style.css  
-└── README.md  
----
-## Deployment
-The project is deployed using Vercel.  
-After connecting the GitHub repository, Vercel automatically builds and provides a live URL.
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/8459547d-eb6b-4e84-be80-4dc9f9067740" />
 
-## Author
-Keerthana M
